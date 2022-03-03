@@ -488,7 +488,7 @@ body{
 #days, #minutes {
     margin-top: 10px;
 }
-#hours, #seconds, {
+#hours, #seconds {
     padding-top: 40px;
 }
 /* Feedback part CSS */
